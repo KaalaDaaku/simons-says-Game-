@@ -27,7 +27,7 @@ function levelUp() {
     userSequence = []
     level++;
     h2.innerText = `LEVEL ${level}`;
-    let btns = ["red", "blue", "green", "yellow"];
+    let btns = ["red", "blue", "black", "yellow"];
     let rndIndex = Math.floor(Math.random() * 4);
     let rndColor = btns[rndIndex];
     gameSequence.push(rndColor);

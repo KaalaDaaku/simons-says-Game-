@@ -30,10 +30,10 @@ h1,h2{
     border-radius: 1rem;
     text-align: center;
 }
-.green{
+.black{
     height: 150px;
     width: 150px;
-    background-color: greenyellow;
+    background-color: black;
     margin: 1rem;
     border: 0.5rem solid black;
     border-radius: 1rem;
